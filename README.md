@@ -28,9 +28,9 @@ LifeLink solves this by building a **live, searchable donor registry** combined 
 
                                              ## 🎬 Demo Video
 
-[![LifeLink Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-demo-link)
+[![LifeLink Demo Video]("https://drive.google.com/file/d/1iNAg-CkFkQuD54mcoOX60cyKZHM4moCI/view?usp=sharing")
 
-> 📌 **Click the button above** to watch the full demo walkthrough of LifeLink.
+> 📌 **Click the above link** to watch the full demo walkthrough of LifeLink.
 > The video covers: Home Page → Donor Registration → Blood Request → Find Donors → About
 
 ---
