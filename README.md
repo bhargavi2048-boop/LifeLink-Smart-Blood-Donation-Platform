@@ -315,9 +315,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Built with ❤️ for CodeSangram Hackathon**
 
-[![LifeLink](https://img.shields.io/badge/LifeLink-Emergency%20Blood%20Connect-0d9488?style=for-the-badge)](https://github.com)
+[![LifeLink](https://img.shields.io/badge/LifeLink-Emergency%20Blood%20Connect-0d9488?style=for-the-badge)](https://github.com/bhargavi2048-boop)
 
-*Bhargavi N & Atchaya M — 2025*
+*Bhargavi N & Atchaya M — 2026*
 
 > *"Your blood could save a life today.*
 > *It takes 30 minutes to donate.*
