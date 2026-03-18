@@ -36,7 +36,7 @@ LifeLink solves this by building a **live, searchable donor registry** combined 
 ---
                                             ## 🔗 Live Demo
 
-[![Live Demo](https://bhargavi2048-boop.github.io/LifeLink-Smart-Blood-Donation-Platform/)
+Live Demo : ("https://bhargavi2048-boop.github.io/LifeLink-Smart-Blood-Donation-Platform/")
 
 | 🔗 Link | 📝 Description |
 |---|---|
