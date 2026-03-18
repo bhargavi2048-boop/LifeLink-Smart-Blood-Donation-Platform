@@ -36,7 +36,7 @@ LifeLink Demo Video : ("https://drive.google.com/file/d/1iNAg-CkFkQuD54mcoOX60cy
 ---
                                             ## 🔗 Live Demo
 
-Live Demo : ("https://bhargavi2048-boop.github.io/LifeLink-Smart-Blood-Donation-Platform/")
+Live Demo : (" https://bhargavi2048-boop.github.io/LifeLink-Smart-Blood-Donation-Platform/")
 
 | 🔗 Link | 📝 Description |
 |---|---|
